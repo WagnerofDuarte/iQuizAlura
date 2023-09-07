@@ -18,7 +18,7 @@ Questao(titulo: "Qual o meme mais famoso da Wanessa Wolf?", respostas: ["Numanic
 Questao(titulo: "Em que ano Vingadores Ultimato foi lançado?", respostas: ["2023", "2009", "2019"], respostaCorreta: 2),
 Questao(titulo: "Qual a sub-classe mais apelona no Destiny 2", respostas: ["Arcstrider", "Voidwalker", "Striker"], respostaCorreta: 2),
 Questao(titulo: "Porque Destiny 2 é uma decepcao?", respostas: ["Pq a Bungie só faz cagada", "O jogo tá caro p caramba", "Sou hater"], respostaCorreta: 0),
-Questao(titulo: "Porque Destiny 2 é uma maravliha?", respostas: ["Pq a Bungie é perfeira", "Pq o jogo é gratis", "Sou lover"], respostaCorreta: 0),
+Questao(titulo: "Porque Destiny 2 é uma maraviliha?", respostas: ["Pq a Bungie é perfeira", "Pq o jogo é gratis", "Sou lover"], respostaCorreta: 0),
 Questao(titulo: "Qual a empresa que voce trabalha?", respostas: ["Google", "DTI Crafters", "Itau"], respostaCorreta: 1),
 Questao(titulo: "Quantas vezes o Lula foi eleito? ", respostas: ["4", "3", "1"], respostaCorreta: 1),
 Questao(titulo: "O aquecimento global vai matar geral?", respostas: ["Com certeza", "Vai nada, isso é invenção", "É só fazer um super ar condicionado"], respostaCorreta: 0),
